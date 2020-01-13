@@ -1,0 +1,2 @@
+# get_hotword_by_selenium
+指定した年のツイッターホットワードを毎月ごとに取得する
